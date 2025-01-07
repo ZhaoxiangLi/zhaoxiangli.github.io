@@ -1,16 +1,25 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I am currently a master's student in Urban and Regional Planning at Peking University, supervised by Prof. [Pengjun Zhao](https://urban.pkusz.edu.cn/info/1013/3181.htm). I obtained my Bachelor’s degree in Traffic Engineering from Tongji University in 2022.
 
-A data-driven personal website
+My research interests lie at the intersection of **Sustainable Mobility**, **Energy & Environment**, and **Transport Equity**.
+
+I am currently seeking a Ph.D. position in a related field and expect to begin my studies in the fall of 2025.
+
+Research Area
 ======
+* **Urban Mobility and Travel Behavior**: Leveraging high-precision transportation data to understand the mobility patterns of people and goods in urban areas, while exploring incentive mechanisms and intervention measures to promote more sustainable mobility.
+* **Green Transformations in Transportation**: Focused on technological innovation, governance, and strategic planning techniques to achieve efficient and low-carbon transformations in transportation systems, aimed at tackling climate and environmental challenges.
+* **Urban and Transportation Planning**: Using causal inference methods to assess the relationship between urban planning strategies, such as land use patterns and urban forms, and sustainable transportation, thereby improving urban mobility, mitigating climate challenges, and optimizing transportation policy.
+* **Social and Spatial Justice**: In relation to accessibility to essential services, climate change, and environmental impacts of transportation systems among different communities and groups.
+
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
 Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
