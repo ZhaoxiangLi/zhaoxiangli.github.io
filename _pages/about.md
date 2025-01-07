@@ -22,7 +22,7 @@ Research Area
 
 
 News
-======
+------
 * **[2024-07]** Our [paper](https://doi.org/10.1016/j.ocecoaman.2024.107269) “Analyzing foreland dynamics in China's port clusters under global major events (2019–2022) by AIS trajectory data”, has been accepted by Ocean & Coastal Management!
 * **[2024-05]** My first-authored [paper](https://doi.org/10.1016/j.trd.2024.104264) “Non-linear effects of CO2 emissions from road transport in port landside area”, has been accepted by Transportation Research Part D: Transport and Environment!
 * **[2023-12]** Our [paper](https://doi.org/10.1016/j.tre.2023.103390) “Exploring the distance decay in port hinterlands under port regionalization using truck GPS data”, has been accepted by Transportation Research Part E: Logistics and Transportation Review!
@@ -30,7 +30,7 @@ News
 
 
 Honors and Awards
-======
+------
 The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
 
 
