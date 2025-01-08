@@ -11,10 +11,12 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **MSc** in Urban and Regional Planning, Peking University, China. 2022.09-2025.07(Expected)
+* **BEng** in Traffic Engineering, Tongji University, China. 2018.09-2022.07
 
+[Download my CV here](https://zhaoxiangli.github.io/files/CV from Zhaoxiang Li.pdf)
+
+<!--
 Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
@@ -62,3 +64,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+-->
