@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "BIO"
 author_profile: true
 redirect_from: 
   - /about/
@@ -18,7 +18,7 @@ Research Area
 ------
 * **Urban Mobility and Travel Behavior**: Leveraging high-precision transportation data to understand the mobility patterns of people and goods in urban areas, while exploring incentive mechanisms and intervention measures to promote more sustainable mobility.
 * **Green Transformations in Transportation**: Focused on technological innovation, governance, and strategic planning techniques to achieve efficient and low-carbon transformations in transportation systems, aimed at tackling climate and environmental challenges.
-* **Urban and Transportation Planning**: Using causal inference methods to assess the relationship between urban planning strategies, such as land use patterns and urban forms, and sustainable transportation, thereby improving urban mobility, mitigating climate challenges, and optimizing transportation policy.
+* **Urban and Transportation Planning**: Using causal inference methods to assess the relationship between urban planning strategies, such as land use patterns and urban forms, and sustainable transportation.
 * **Social and Spatial Justice**: In relation to accessibility to essential services, climate change, and environmental impacts of transportation systems among different communities and groups.
 
 
