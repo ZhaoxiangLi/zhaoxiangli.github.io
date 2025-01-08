@@ -13,8 +13,9 @@ My research interests lie at the intersection of **Sustainable Mobility**, **Ene
 
 I am currently seeking a Ph.D. position in a related field and expect to begin my studies in Fall 2025.
 
+
 Research Area
-======
+------
 * **Urban Mobility and Travel Behavior**: Leveraging high-precision transportation data to understand the mobility patterns of people and goods in urban areas, while exploring incentive mechanisms and intervention measures to promote more sustainable mobility.
 * **Green Transformations in Transportation**: Focused on technological innovation, governance, and strategic planning techniques to achieve efficient and low-carbon transformations in transportation systems, aimed at tackling climate and environmental challenges.
 * **Urban and Transportation Planning**: Using causal inference methods to assess the relationship between urban planning strategies, such as land use patterns and urban forms, and sustainable transportation, thereby improving urban mobility, mitigating climate challenges, and optimizing transportation policy.
