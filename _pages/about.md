@@ -51,4 +51,3 @@ Honors and Awards
 * 2020.10 Model Student Award, Tongji University
 * 2019.10 Outstanding Student Award, Tongji University
 * 2019.10 Yang Peikun Scholarship, Tongji University
-
