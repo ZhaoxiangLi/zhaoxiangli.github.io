@@ -8,24 +8,6 @@ These works provide an overview of my research.
 
 ( * indicates the corresponding author; † indicates co-first authors.)
 
-Transportation, Energy and Environment
-====
-* <u> Li, Z. </u>, Zhao, P., He, Z., & Xiao, Z. (2024). **Non-linear effects of CO2 emissions from road transport in port landside area**.  <i> Nature Communications</i>, 15, 7437. <a href="https://www.nature.com/articles/s41467-024-51554-9"> [Paper]</a> <a href="https://www.washingtonpost.com/climate-solutions/2024/10/14/ev-charging-station-business-boost/"> [The Washington Post]</a><a href="https://www.cbc.ca/news/science/what-on-earth-ev-chargers-1.7354629"> [CBC News]</a><a href="https://news.mit.edu/2024/study-ev-charging-stations-boost-nearby-business-spending-0904"> [MIT News]</a>
-
-* <u>Zheng, Y.</u>, Wang, S.*, Liu, L., Aloisi, J. & Zhao, J. (2024). **Impacts of remote work on vehicle miles traveled and transit ridership in the United States**. <i> Nature Cities</i>, 1, 346–358. <a href="https://doi.org/10.1038/s44284-024-00057-1"> [Paper]</a> <a href="https://news.mit.edu/2024/has-remote-work-changed-how-people-travel-0409"> [MIT News]</a>
-
-* Wang, S.<sup>1</sup><span>&#42;</span>, <u>Zheng, Y.<sup>1</sup></u>, Wang, G., Yabe, T., Moro, E.<span>&#42;</span> & Pentland, A. (2024). **Infrequent activities predict economic outcomes in major American cities**. <i> Nature Cities</i>, 1(4), 305-314. <a href="https://doi.org/10.1038/s44284-024-00051-7"> [Paper]</a> ( <sup>1</sup> indicates the co-first authors.)
-
-* <u>Zheng, Y.*</u>, Meredith-Karam, P., Stewart, A., Kong, H., & Zhao, J. (2023). **Impacts of congestion pricing on ride-hailing ridership: Evidence from Chicago**.  <i> Transportation Research Part A: Policy and Practice, 170,</i> 103639. <a href="https://doi.org/10.1016/j.tra.2023.103639"> [Paper]</a>
-
-* <u>Zheng, Y.</u>, Moody, J., Wang, S., & Zhao, J*. (2021). **Measuring policy leakage of Beijing’s car ownership restriction**.  <i> Transportation Research Part A: Policy and Practice, 148,</i> 223-236. <a href="https://doi.org/10.1016/j.tra.2021.03.008"> [Paper]</a> <a href="https://news.mit.edu/2021/car-ownership-china-0608"> [MIT News]</a>
-
-* Fang, W., <u>Zheng, Y.</u>, Diao, M., & Zhao, J. (2021). **Dispersion of agglomeration through high-speed rail in China**. In <i> Urban Form and Accessibility</i> (pp. 327-357). Elsevier. <a href="https://doi.org/10.1016/B978-0-12-819822-3.00012-2"> [Paper]</a>
-
-
-
-## Fairness-Enhancing Machine Learning 
-
 <!-- ![text](/images/profile.png){: .align-left width="100px"; padding-right: "20px"} -->
 
 <!-- <figure class="align-left" style="width: 100px; padding-right: 20px;">
@@ -33,17 +15,17 @@ Transportation, Energy and Environment
   <figcaption>Figure 1: Your Figure Caption</figcaption>
 </figure> -->
 
-* <u>Zheng, Y.</u>, Wang, S.*, & Zhao, J. (2021). **Equality of opportunity in travel behavior prediction with deep neural networks and discrete choice models**. <i> Transportation Research Part C: Emerging Technologies, 132,</i> 103410. <a href="https://doi.org/10.1016/j.trc.2021.103410"> [Paper]</a>
+Transportation, Energy and Environment
+====
+* <u>Li, Z.</u>, Zhao, P.*, He, Z., & Xiao, Z. (2024). **Non-linear effects of CO2 emissions from road transport in port landside area**. <i> Transportation Research Part D: Transport and Environment</i>, 132, 104264. <a href="https://doi.org/10.1016/j.trd.2024.104264"> [Paper]</a>
 
-* <u>Zheng, Y.</u>, Wang, Q., Zhuang, D., Wang, S.*, & Zhao, J. (2023). **Fairness-enhancing deep learning for ride-hailing demand prediction**. <i> IEEE Open Journal of Intelligent Transportation Systems, 4, </i> 551 - 569. <a href="https://doi.org/10.1109/OJITS.2023.3297517"> [Paper]</a>
+* Zhao, P.*, <u>Li, Z.</u>, Xiao, Z., Jiang, S., He, Z., & Zhang, M. (2023). **Spatiotemporal characteristics and driving factors of CO2 emissions from road freight transportation**. <i> Transportation Research Part D: Transport and Environment</i>, 125, 103983. <a href="https://doi.org/10.1016/j.trd.2023.103983"> [Paper]</a>
 
-* Guo, X., Xu, H., Zhuang, D., <u>Zheng, Y.*</u>, & Zhao, J. (2023). **Fairness-Enhancing Vehicle Rebalancing in the Ride-hailing System**.  Under review in <i> Transportation Research Part C: Emerging Technologies</i>. <a href="https://arxiv.org/abs/2401.00093"> [Paper]</a>
 
-## Travel Decisions and Demand Modeling
-* <u>Zheng, Y.</u>, Kong, H.*, Petzhold, G., Barcelos, M. M., Zegras, C. P., & Zhao, J. (2021). **User satisfaction and service quality improvement priority of bus rapid transit in Belo Horizonte, Brazil**. <i> Case Studies on Transport Policy, 9</i> (4), 1900-1911. <a href="https://doi.org/10.1016/j.cstp.2021.10.011"> [Paper]</a>
 
-* <u>Zheng, Y.</u>, Kong, H.*, Petzhold, G., Barcelos, M. M., Zegras, C. P., & Zhao, J. (2022). **Gender differences in the user satisfaction and service quality improvement priority of public transit bus system in Porto Alegre and Fortaleza, Brazil**. <i> Travel Behaviour and Society, 28</i>, 22-37. <a href="https://doi.org/10.1016/j.tbs.2022.02.003"> [Paper]</a>
+Multi-class Mobility Pattern Analysis
+====
+* He, Z., Zhao, P.*, Xiao, Z., Huang, X., <u>Li, Z.</u>, & Kang, T. (2024). **Exploring the distance decay in port hinterlands under port regionalization using truck GPS data**. <i> Transportation Research Part E: Logistics and Transportation Review</i>, 181, 103390. <a href="https://doi.org/10.1016/j.tre.2023.103390"> [Paper]</a>
 
-* <u>Zheng, Y.*</u>, Caros, N. S., Aloisi, J., & Zhao, J. (2023). **Examining the interactions between working from home, travel behavior and change in car ownership due to the impact of COVID-19**. <i> Travel Behaviour and Society, 33</i>, 100634. <a href="https://doi.org/10.1016/j.tbs.2023.100634"> [Paper]</a>
+* He, Z., Zhao, P.*, Zhang, S., <u>Li, Z.</u>, Huang, G., Zhang, C., & Niu, Y. (2024). **Analyzing foreland dynamics in China's port clusters under global major events (2019–2022) by AIS trajectory data**. <i> Ocean & Coastal Management</i>, 255, 107269. <a href="https://doi.org/10.1016/j.ocecoaman.2024.107269"> [Paper]</a>
 
-* Wang, Q., Wang, S.*, <u>Zheng, Y.</u>, Lin, H., Zhang, X., Zhao, J., & Walker, J. (2024). **Deep hybrid model with satellite imagery: How to combine demand modeling and computer vision for travel behavior analysis?**. <i> Transportation Research Part B: Methodological, 179</i>, 102869. <a href="https://doi.org/10.1016/j.trb.2023.102869"> [Paper]</a>
