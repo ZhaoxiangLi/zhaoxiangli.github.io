@@ -17,7 +17,7 @@ I am currently seeking a Ph.D. position in a related field and expect to begin m
 Educations
 ------
 * **MSc**
-  Urban and Regional Planning, Peking University, Beijing, China. 2022.09-2025.07(expected)
+  Urban and Regional Planning, Peking University, Beijing, China. 2022.09-2025.07(Expected)
 * **BEng**
   Traffic Engineering, Tongji University, Shanghai, China. 2018.09-2022.07
 
