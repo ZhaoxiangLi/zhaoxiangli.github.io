@@ -26,10 +26,15 @@ Research Area
 
 News
 ------
+* **[2024-10]** National Scholarship
 * **[2024-07]** Our [paper](https://doi.org/10.1016/j.ocecoaman.2024.107269) “Analyzing foreland dynamics in China's port clusters under global major events (2019–2022) by AIS trajectory data”, has been accepted by Ocean & Coastal Management!
 * **[2024-05]** My first-authored [paper](https://doi.org/10.1016/j.trd.2024.104264) “Non-linear effects of CO2 emissions from road transport in port landside area”, has been accepted by Transportation Research Part D: Transport and Environment!
 * **[2023-12]** Our [paper](https://doi.org/10.1016/j.tre.2023.103390) “Exploring the distance decay in port hinterlands under port regionalization using truck GPS data”, has been accepted by Transportation Research Part E: Logistics and Transportation Review!
 * **[2023-11]** Our [paper](https://doi.org/10.1016/j.trd.2023.103983) “Spatiotemporal characteristics and driving factors of CO2 emissions from road freight transportation”, has been accepted by Transportation Research Part D: Transport and Environment!
+* **[2022-07]** I received my Bachelor’s degree from Tongji University and was honored as a Shanghai Outstanding Graduate (Top 1%).
+* **[2021-07]** I won the first prize of the 16th National Competition of Transport Science and Technology, the most prestigious undergraduate academic competition in China’s transportation field!
+
+
 
 
 Honors and Awards
