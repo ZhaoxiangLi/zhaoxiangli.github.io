@@ -1,5 +1,5 @@
 ---
-title: "Class "The History of Geographical Ideas""
+title: "The History of Geographical Ideas"
 collection: Teaching assistant
 type: "Graduate course"
 permalink: /teaching/2014-spring-teaching-1
