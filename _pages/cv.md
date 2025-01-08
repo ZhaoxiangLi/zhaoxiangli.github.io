@@ -12,7 +12,6 @@ redirect_from:
 [Download my CV here](https://zhaoxiangli.github.io/files/CV from Zhaoxiang Li.pdf)
 
 
-
 Education
 ----
 * **MSc** in Urban and Regional Planning, Peking University, China. 2022.09-2025.07(Expected)
