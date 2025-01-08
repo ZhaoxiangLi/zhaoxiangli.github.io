@@ -14,6 +14,14 @@ My research interests lie at the intersection of **Sustainable Mobility**, **Ene
 I am currently seeking a Ph.D. position in a related field and expect to begin my studies in Fall 2025.
 
 
+Educations
+------
+* **MSc**
+  Urban and Regional Planning, Peking University, Beijing, China. 2022.09-2025.07(expected)
+* **BEng**
+  Traffic Engineering, Tongji University, Shanghai, China. 2018.09-2022.07
+
+
 Research Area
 ------
 * **Urban Mobility and Travel Behavior**: Leveraging high-precision transportation data to understand the mobility patterns of people and goods in urban areas, while exploring incentive mechanisms and intervention measures to promote more sustainable mobility.
@@ -32,7 +40,16 @@ News
 
 Honors and Awards
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+* 2024.10 National Scholarship, Ministry of Education of China, Top 3% of all graduate students at PKU
+* 2024.10 Model Student Award, Peking University
+* 2022.06 Outstanding Graduates from Shanghai, Top 1% of all undergraduate students at TJU
+* 2021.12 Changcheng High-Tech Talent Scholarship, Tongji University
+* 2021.10 Outstanding Student Award, Tongji University
+* 2021.07 First Prize of the 16th National Competition of Transport Science and Technology (1/1130)
+* 2020.12 National Scholarship, Ministry of Education of China (1/225)
+* 2020.10 Model Student Award, Tongji University
+* 2019.10 Outstanding Student Award, Tongji University
+* 2019.10 Yang Peikun Scholarship, Tongji University
 
 
 Create content & metadata
