@@ -9,12 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
+[Download my CV here](https://zhaoxiangli.github.io/files/CV from Zhaoxiang Li.pdf)
+
+
+
 Education
 ----
 * **MSc** in Urban and Regional Planning, Peking University, China. 2022.09-2025.07(Expected)
 * **BEng** in Traffic Engineering, Tongji University, China. 2018.09-2022.07
 
-[Download my CV here](https://zhaoxiangli.github.io/files/CV from Zhaoxiang Li.pdf)
 
 <!--
 Work experience
