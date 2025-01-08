@@ -7,11 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a master's student in Urban and Regional Planning at Peking University, supervised by Prof. [Pengjun Zhao](https://urban.pkusz.edu.cn/info/1013/3181.htm). I obtained my Bachelor’s degree in Traffic Engineering from Tongji University in 2022.
-
-My research interests lie at the intersection of **Sustainable Mobility**, **Energy & Environment**, and **Transport Equity**.
-
-I am currently seeking a Ph.D. position in a related field and expect to begin my studies in Fall 2025.
+I am currently a master's student in Urban and Regional Planning at Peking University, supervised by Prof. [Pengjun Zhao](https://urban.pkusz.edu.cn/info/1013/3181.htm). I obtained my Bachelor’s degree in Traffic Engineering from Tongji University in 2022. My research interests lie at the intersection of **Sustainable Mobility**, **Energy & Environment**, and **Transport Equity**. I am now seeking a Ph.D. position in a related field and expect to begin my studies in Fall 2025.
 
 
 Educations
@@ -52,7 +48,3 @@ Honors and Awards
 * 2019.10 Outstanding Student Award, Tongji University
 * 2019.10 Yang Peikun Scholarship, Tongji University
 
-
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
