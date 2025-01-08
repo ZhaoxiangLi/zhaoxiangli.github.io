@@ -17,9 +17,9 @@ The following works offer an overview of my research.
 
 Transportation, Energy and Environment
 ----
-* <u>Li, Z.</u>, Zhao, P.*, He, Z., & Xiao, Z. (2024). **Non-linear effects of CO~2~ emissions from road transport in port landside area**. <i> Transportation Research Part D: Transport and Environment</i>, 132, 104264. <a href="https://doi.org/10.1016/j.trd.2024.104264"> [Paper]</a>
+* <u>Li, Z.</u>, Zhao, P.*, He, Z., & Xiao, Z. (2024). **Non-linear effects of CO<sub>2</sub> emissions from road transport in port landside area**. <i> Transportation Research Part D: Transport and Environment</i>, 132, 104264. <a href="https://doi.org/10.1016/j.trd.2024.104264"> [Paper]</a>
 
-* Zhao, P.*, <u>Li, Z.</u>, Xiao, Z., Jiang, S., He, Z., & Zhang, M. (2023). **Spatiotemporal characteristics and driving factors of CO~2~ emissions from road freight transportation**. <i> Transportation Research Part D: Transport and Environment</i>, 125, 103983. <a href="https://doi.org/10.1016/j.trd.2023.103983"> [Paper]</a>
+* Zhao, P.*, <u>Li, Z.</u>, Xiao, Z., Jiang, S., He, Z., & Zhang, M. (2023). **Spatiotemporal characteristics and driving factors of CO<sub>2</sub> emissions from road freight transportation**. <i> Transportation Research Part D: Transport and Environment</i>, 125, 103983. <a href="https://doi.org/10.1016/j.trd.2023.103983"> [Paper]</a>
 
 
 
