@@ -5,6 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
+
 Class "The History of Geographical Ideas"
 ----
 Teaching assistant, Fall 2022
