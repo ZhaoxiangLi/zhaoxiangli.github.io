@@ -10,7 +10,7 @@ redirect_from:
 I am currently a master's student in Urban and Regional Planning at Peking University, supervised by Prof. [Pengjun Zhao](https://urban.pkusz.edu.cn/info/1013/3181.htm). I obtained my Bachelor’s degree in Traffic Engineering from Tongji University in 2022. My research interests lie at the intersection of **Sustainable Mobility**, **Energy & Environment**, and **Transport Equity**. I am now seeking a Ph.D. position in a related field and expect to begin my studies in Fall 2025.
 
 
-Educations
+Education
 ------
 * **MSc** in Urban and Regional Planning, Peking University, China. 2022.09-2025.07(Expected)
 * **BEng** in Traffic Engineering, Tongji University, China. 2018.09-2022.07
