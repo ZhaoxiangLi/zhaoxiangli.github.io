@@ -25,6 +25,8 @@ Transportation, Energy and Environment
 
 Multi-class Mobility Pattern Analysis
 ----
+* <u>Li, Z.</u>, Ma, X., Pan, R., Yang, C., & Yuan, Q*. (2024). **Explaining the spatial dynamics and identifying potential risks of hazardous materials truck movements**. <i> Journal of Transport Geography</i>. 
+
 * He, Z., Zhao, P.*, Xiao, Z., Huang, X., <u>Li, Z.</u>, & Kang, T. (2024). **Exploring the distance decay in port hinterlands under port regionalization using truck GPS data**. <i> Transportation Research Part E: Logistics and Transportation Review</i>, 181, 103390. <a href="https://doi.org/10.1016/j.tre.2023.103390"> [Paper]</a>
 
 * He, Z., Zhao, P.*, Zhang, S., <u>Li, Z.</u>, Huang, G., Zhang, C., & Niu, Y. (2024). **Analyzing foreland dynamics in China's port clusters under global major events (2019–2022) by AIS trajectory data**. <i> Ocean & Coastal Management</i>, 255, 107269. <a href="https://doi.org/10.1016/j.ocecoaman.2024.107269"> [Paper]</a>
