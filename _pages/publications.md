@@ -35,7 +35,7 @@ Multi-class Mobility Pattern Analysis
 
 Forthcoming Publications
 ----
-* Zhao, P.\*, <u>Li, Z.\*</u>, He, Z., Chen, Y., & Xiao, Z. (2025). **Reducing the road freight emissions through integrated strategy in port cities**. <i> Nature Communications</i>. (Under review)
+* Zhao, P.\*, <u>Li, Z.*</u>, He, Z., Chen, Y., & Xiao, Z. (2025). **Reducing the road freight emissions through integrated strategy in port cities**. <i> Nature Communications</i>. (Under review)
 
 * <u>Li, Z.</u>, Zhao, P.\*, Liu, Q.\*, & Jiang, S. (2025). **Just Transition to Sustainable Road Freight Transport in China**. <i>Nature Sustainability</i>. (Under review)
 
