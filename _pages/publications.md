@@ -31,3 +31,13 @@ Multi-class Mobility Pattern Analysis
 
 * He, Z., Zhao, P.*, Zhang, S., <u>Li, Z.</u>, Huang, G., Zhang, C., & Niu, Y. (2024). **Analyzing foreland dynamics in China's port clusters under global major events (2019–2022) by AIS trajectory data**. <i> Ocean & Coastal Management</i>, 255, 107269. <a href="https://doi.org/10.1016/j.ocecoaman.2024.107269"> [Paper]</a>
 
+
+
+Forthcoming Publications
+----
+* Zhao, P.*, <u>Li, Z.†</u>, He, Z., Chen, Y., & Xiao, Z. (2025). **Reducing the road freight emissions through integrated strategy in port cities**. <i> Nature Communications <i>. (Under review)
+
+* <u>Li, Z.</u>, Zhao, P.*, Liu, Q.*, & Jiang, S. (2025). **Just Transition to Sustainable Road Freight Transport in China**. <i> Nature Sustainability <i>. (Under review)
+
+* He, Z., Zhao, P.*, <u>Li, Z.</u>, Huang, G., Niu, Y., Zhang, C., & Huang, Z. (2025). **Assessing the Adaptivity of Global Container Shipping Network during the Russia-Ukraine Conflict by AIS Trajectory Data**. <i> Journal of Transport Geography <i>. (Under revision)
+
