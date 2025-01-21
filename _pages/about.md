@@ -18,7 +18,7 @@ Education
 * **BEng** in Traffic Engineering, Tongji University, China. 2018.09-2022.07
 
 
-Research Area
+Research Areas
 ------
 * **Urban Mobility and Travel Behavior**: Leveraging high-precision transportation data to understand the mobility patterns of people and goods in urban areas, while exploring incentive mechanisms and intervention measures to promote more sustainable mobility.
 * **Green Transformations in Transportation**: Focused on technological innovation, governance, and strategic planning techniques to achieve green transformations in transportation systems, aimed at tackling climate and environmental challenges.
