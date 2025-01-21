@@ -28,7 +28,7 @@ Research Areas
 
 News
 ------
-* **[2025-01]** My first-authored [paper](https://doi.org/10.1016/j.jtrangeo.2025.104125) “Explaining the spatial Ddnamics and identifying potential risks of hazardous materials truck movements”, has been accepted by Journal of Transport Geography!
+* **[2025-01]** My first-authored [paper](https://doi.org/10.1016/j.jtrangeo.2025.104125) “Explaining the spatial dynamics and identifying potential risks of hazardous materials truck movements”, has been accepted by Journal of Transport Geography!
 * **[2024-10]** I was awarded the National Scholarship by the Ministry of Education of China, with a ranking of first in my department (1/51)!
 * **[2024-10]** I was awarded the only Model Student Award in my department by Tongji University, with a ranking of first out of 51 graduate students. 
 * **[2024-07]** Our [paper](https://doi.org/10.1016/j.ocecoaman.2024.107269) “Analyzing foreland dynamics in China's port clusters under global major events (2019–2022) by AIS trajectory data”, has been accepted by Ocean & Coastal Management!
