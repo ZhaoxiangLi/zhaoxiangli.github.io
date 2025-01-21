@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download my CV here](https://zhaoxiangli.github.io/files/CV_Zhaoxiang Li.pdf)
+[Download my CV here](https://zhaoxiangli.github.io/files/CV_ZhaoxiangLi.pdf)
 
 
 Education
