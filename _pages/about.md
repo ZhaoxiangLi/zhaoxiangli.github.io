@@ -53,7 +53,6 @@ Honors and Awards
 * 2019.10 Yang Peikun Scholarship, Tongji University
 * 2019-2022 Outstanding Student Award, Tongji University
 
-
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-Y47E4YWEVD"></script>
 <script>
