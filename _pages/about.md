@@ -52,3 +52,14 @@ Honors and Awards
 * 2020.12 National Scholarship, Ministry of Education of China (1/225, Top 1% of all undergraduate students at TJU)
 * 2019.10 Yang Peikun Scholarship, Tongji University
 * 2019-2022 Outstanding Student Award, Tongji University
+
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-Y47E4YWEVD"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-Y47E4YWEVD');
+</script>
