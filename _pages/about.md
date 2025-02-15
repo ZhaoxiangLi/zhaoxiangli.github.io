@@ -20,9 +20,9 @@ Education
 
 Research Areas
 ------
-* **Urban Mobility and Travel Behavior**: Leveraging high-precision transportation data to understand the mobility patterns of people and goods in urban areas, while exploring incentive mechanisms and intervention measures to promote more sustainable mobility.
-* **Green Transformations in Transportation**: Focused on technological innovation, governance, and strategic planning techniques to achieve green transformations in transportation systems, aimed at tackling climate and environmental challenges.
-* **Urban and Transportation Planning**: Using causal inference methods to assess the relationship between urban planning strategies, such as land use patterns and urban forms, and sustainable transportation.
+* **Urban Mobility and Travel Behavior**: Leveraging transit data to understand the mobility patterns and behavioural dynamics of people and goods; exploring incentive mechanisms and intervention measures to promote more sustainable mobility.
+* **Green Transformations in Transportation**: Focused on technological innovation, governance, and strategic planning techniques to achieve green transformations in transportation systems.
+* **Urban and Transportation Planning**: Using causal inference methods to assess the relationship between planning strategies (e.g., traffic restriction policies, congestion taxes) and sustainable transportation. 
 * **Social and Spatial Justice**: In relation to accessibility to essential services, climate change, and environmental impacts of transportation among different communities and groups.
 
 
