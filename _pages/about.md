@@ -23,7 +23,7 @@ Research Areas
 * **Urban Mobility and Travel Behavior**: Leveraging transit data to understand the mobility patterns and behavioural dynamics of people and goods; exploring incentive mechanisms and intervention measures to promote more sustainable mobility.
 * **Green Transformations in Transportation**: Focused on technological innovation, governance, and strategic planning techniques to achieve green transformations in transportation systems.
 * **Urban and Transportation Planning**: Using causal inference methods to assess the relationship between planning strategies (e.g., traffic restriction policies, congestion taxes) and sustainable transportation. 
-* **Social and Spatial Justice**: In relation to accessibility to essential services, climate change, and environmental impacts of transportation among different communities and groups.
+* **Social and Spatial Justice**: In relation to accessibility to essential services, transportation infrastructure, climate and environmental impacts of transportation systems among different communities and groups.
 
 
 News
