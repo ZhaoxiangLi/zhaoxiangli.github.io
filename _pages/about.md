@@ -9,20 +9,20 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a master's student in Urban and Regional Planning at Peking University, supervised by Prof. [Pengjun Zhao](https://urban.pkusz.edu.cn/info/1013/3181.htm). I obtained my Bachelor’s degree in Traffic Engineering from Tongji University in 2022. My research interests lie at the intersection of **Sustainable Mobility**, **Energy & Environment**, and **Transport Equity**. I am now seeking a Ph.D. position in a related field and expect to begin my studies in Fall 2025.
+I am currently a master's student in Urban and Regional Planning at Peking University, supervised by Prof. [Pengjun Zhao](https://urban.pkusz.edu.cn/info/1013/3181.htm). I obtained my Bachelor’s degree in Traffic Engineering from Tongji University in 2022. My research interests lie at the intersection of **Mobility & Travel Behavior**, **Emerging Mobility Syetems**, **Energy & Environment**, and **Transportation Equity**. I will be pursuing a Ph.D. in Urban Studies and Planning at MIT, starting in Fall 2025, supervised by Prof. [Jinhua Zhao](https://dusp.mit.edu/people/jinhua-zhao).
 
 
 Education
 ------
-* **MSc** in Urban and Regional Planning, Peking University, China. 2022.09-2025.07(Expected)
-* **BEng** in Traffic Engineering, Tongji University, China. 2018.09-2022.07
+* **MSc** in Urban and Regional Planning, Peking University. 2022.09-2025.06(Expected)
+* **BEng** in Traffic Engineering, Tongji University. 2018.09-2022.07
 
 
 Research Areas
 ------
 * **Urban Mobility and Travel Behavior**: Leveraging transit data to understand the mobility patterns and behavioural dynamics of people and goods; exploring incentive mechanisms and intervention measures to promote more sustainable mobility.
+* **Emerging Mobility Systems**: Assessing the environmental, economic, and social impacts of the application of CASE (Connected, Autonomous, Shared, Electric) technologies using using causal inference and machine learning methods.
 * **Green Transformations in Transportation**: Focused on technological innovation, governance, and strategic planning techniques to achieve green transformations in transportation systems.
-* **Urban and Transportation Planning**: Using causal inference methods to assess the relationship between planning strategies (e.g., traffic restriction policies, congestion taxes) and sustainable transportation. 
 * **Social and Spatial Justice**: In relation to accessibility to essential services, transportation infrastructure, climate and environmental impacts of transportation systems among different communities and groups.
 
 
