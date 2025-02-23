@@ -44,12 +44,13 @@ News
 Honors and Awards
 ------
 * 2024.10 National Scholarship, Ministry of Education of China (1/51, Top 1% of all graduate students at PKU)
-* 2024.10 Outstanding Student Award, Peking University
+* 2024.10 Merit Student Pacesetter Award, Peking University (1/51)
 * 2022.06 Outstanding Graduates from Shanghai, Top 0.2% of all undergraduate students at TJU
 * 2021.12 Xiangcheng High-Tech Talent Scholarship, Tongji University
 * 2021.07 First Prize of the 16th National Competition of Transport Science and Technology (1/1130)
 * 2021.03 5th in 2021 American Society Civil Engineering Mid-Pacific Student Conference Transportation Contest
 * 2020.12 National Scholarship, Ministry of Education of China (1/225, Top 1% of all undergraduate students at TJU)
+* 2020.12 Merit Student Pacesetter Award, Tongji University (1/225)
 * 2019.10 Yang Peikun Scholarship, Tongji University
 * 2019-2022 Outstanding Student Award, Tongji University
 
