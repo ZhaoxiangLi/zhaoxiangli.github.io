@@ -14,8 +14,8 @@ I am currently a Master's student in Urban and Regional Planning at Peking Unive
 
 Education
 ------
-* **MSc** in Urban and Regional Planning, Peking University. 2022.09-2025.06(Expected)
-* **BEng** in Traffic Engineering, Tongji University. 2018.09-2022.07
+* **MSc** in Urban and Regional Planning, Peking University, 2025
+* **BEng** in Traffic Engineering, Tongji University, 2022
 
 
 Research Areas
