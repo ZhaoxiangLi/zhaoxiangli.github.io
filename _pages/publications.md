@@ -23,7 +23,7 @@ Transportation, Energy and Environment
 
 
 
-Multi-class Mobility Pattern Analysis
+Multi-class Mobility Dynamics Analysis
 ----
 * <u>Li, Z.</u>, Ma, X., Pan, R., Yang, C., & Yuan, Q\*. (2025). **Explaining the spatial dynamics and identifying potential risks of hazardous materials truck movements**. <i> Journal of Transport Geography</i>, 123, 104125. <a href="https://doi.org/10.1016/j.jtrangeo.2025.104125"> [Paper]</a>
 
@@ -35,9 +35,9 @@ Multi-class Mobility Pattern Analysis
 
 Forthcoming Publications
 ----
-* Zhao, P.\*, <u>Li, Z.*</u>, He, Z., Chen, Y., & Xiao, Z. (2025). **Reducing the road freight emissions through integrated strategy in port cities**. <i> Nature Communications</i>. (Under review)
+* Zhao, P.\*, <u>Li, Z.*</u>, He, Z., Chen, Y., & Xiao, Z. (2025). **Reducing the road freight emissions through integrated strategy in port cities**. <i> Nature Communications</i>. (Accepted)
 
 * <u>Li, Z.</u>, Zhao, P.\*, Liu, Q.\*, & Jiang, S. (2025). **Just Transition to Sustainable Road Freight Transport in China**. <i>Nature Sustainability</i>. (Under review)
 
-* He, Z., Zhao, P.\*, <u>Li, Z.</u>, Huang, G., Niu, Y., Zhang, C., & Huang, Z. (2025). **Assessing the Adaptivity of Global Container Shipping Network during the Russia-Ukraine Conflict by AIS Trajectory Data**. <i> Journal of Transport Geography</i>. (Under revision)
+* He, Z., Zhao, P.\*, <u>Li, Z.</u>, Huang, G., Niu, Y., Zhang, C., & Huang, Z. (2025). **Assessing the Adaptivity of Global Container Shipping Network during the Russia-Ukraine Conflict by AIS Trajectory Data**. <i> Journal of Transport Geography</i>. (Under review)
 
