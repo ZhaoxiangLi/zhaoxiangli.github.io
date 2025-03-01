@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Master's student in Urban and Regional Planning at Peking University, supervised by Prof. [Pengjun Zhao](https://urban.pkusz.edu.cn/info/1013/3181.htm). I obtained my Bachelor’s degree in Traffic Engineering from Tongji University in 2022. My research interests lie at the intersection of **Mobility & Travel Behavior**, **Emerging Mobility System**, **Energy & Environment**, and **Transportation Equity**. I will be pursuing a Ph.D. in Urban Studies and Planning at MIT, starting in Fall 2025, supervised by Prof. [Jinhua Zhao](https://dusp.mit.edu/people/jinhua-zhao).
+I am currently a Master's student in Urban and Regional Planning at Peking University, supervised by Prof. [Pengjun Zhao](https://urban.pkusz.edu.cn/info/1013/3181.htm). I obtained my Bachelor’s degree in Traffic Engineering from Tongji University in 2022. My research interests lie at the intersection of **Mobility & Travel Behavior**, **Emerging Mobility System**, **Sustainable Transportation**, and **Transportation Equity**. I will be pursuing a Ph.D. in Urban Studies and Planning at MIT, starting in Fall 2025, supervised by Prof. [Jinhua Zhao](https://dusp.mit.edu/people/jinhua-zhao).
 
 
 Education
