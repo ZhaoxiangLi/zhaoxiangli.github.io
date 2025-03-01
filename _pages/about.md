@@ -38,7 +38,7 @@ News
 * **[2022-07]** I received my Bachelor’s degree from Tongji University and was honored as a Shanghai Outstanding Graduate (Top 1%)!
 * **[2021-07]** I won the first prize of the 16th National Competition of Transport Science and Technology, the most prestigious undergraduate academic competition in China’s transportation field!
 * **[2020-12]** I was awarded the National Scholarship by the Ministry of Education of China, with a ranking of first in my department (1/225)!
-* **[2020-10]** I was awarded the only Merit Student Pacesetter Award in my department by Tongji University, with a ranking of first out of 225 undergraduate students!
+* **[2020-12]** I was awarded the only Merit Student Pacesetter Award in my department by Tongji University, with a ranking of first out of 225 undergraduate students!
 
 
 Honors and Awards
