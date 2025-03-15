@@ -28,6 +28,7 @@ Research Areas
 
 News
 ------
+* **[2025-03]** My co-corresponding authored [paper](https://doi.org/10.1016/j.jtrangeo.2025.104125) with Prof. [Pengjun Zhao](https://urban.pkusz.edu.cn/info/1013/3181.htm) “Reducing the road freight emissions through integrated strategy in the port cities”, has been accepted by Nature Communications!
 * **[2025-01]** My first-authored [paper](https://doi.org/10.1016/j.jtrangeo.2025.104125) “Explaining the spatial dynamics and identifying potential risks of hazardous materials truck movements”, has been accepted by Journal of Transport Geography!
 * **[2024-10]** I was awarded the National Scholarship by the Ministry of Education of China, with a ranking of first in my department (1/51)!
 * **[2024-10]** I was awarded the only Merit Student Pacesetter Award in my department by Peking University, with a ranking of first out of 51 graduate students. 
