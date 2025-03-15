@@ -17,6 +17,8 @@ The following works offer an overview of my research.
 
 Transportation, Energy and Environment
 ----
+* Zhao, P.\*, <u>Li, Z.\*</u>, He, Z., Chen, Y.\*, & Xiao, Z. (2024). **Reducing the road freight emissions through integrated strategy in the port cities**. <i> Nature Communications </i>, 16, 2563. <a href="https://doi.org/10.1038/s41467-025-57861-z"> [Paper]</a>
+
 * <u>Li, Z.</u>, Zhao, P.\*, He, Z., & Xiao, Z. (2024). **Non-linear effects of CO<sub>2</sub> emissions from road transport in port landside area**. <i> Transportation Research Part D: Transport and Environment</i>, 132, 104264. <a href="https://doi.org/10.1016/j.trd.2024.104264"> [Paper]</a>
 
 * Zhao, P.\*, <u>Li, Z.</u>, Xiao, Z., Jiang, S., He, Z., & Zhang, M. (2023). **Spatiotemporal characteristics and driving factors of CO<sub>2</sub> emissions from road freight transportation**. <i> Transportation Research Part D: Transport and Environment</i>, 125, 103983. <a href="https://doi.org/10.1016/j.trd.2023.103983"> [Paper]</a>
