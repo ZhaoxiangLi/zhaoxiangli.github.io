@@ -35,11 +35,3 @@ Multi-class Mobility Dynamics Analysis
 
 
 
-Forthcoming Publications
-----
-* Zhao, P.\*, <u>Li, Z.*</u>, He, Z., Chen, Y., & Xiao, Z. (2025). **Reducing the road freight emissions through integrated strategy in port cities**. <i> Nature Communications</i>. (Accepted)
-
-* <u>Li, Z.</u>, Zhao, P.\*, Liu, Q.\*, & Jiang, S. (2025). **Just Transition to Sustainable Road Freight Transport in China**. <i>Nature Sustainability</i>. (Under review)
-
-* He, Z., Zhao, P.\*, <u>Li, Z.</u>, Huang, G., Niu, Y., Zhang, C., & Huang, Z. (2025). **Assessing the Adaptivity of Global Container Shipping Network during the Russia-Ukraine Conflict by AIS Trajectory Data**. <i> Journal of Transport Geography</i>. (Under review)
-
