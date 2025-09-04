@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Master's student in Urban and Regional Planning at Peking University, supervised by Prof. [Pengjun Zhao](https://urban.pkusz.edu.cn/info/1013/3181.htm). I obtained my Bachelor’s degree in Traffic Engineering from Tongji University in 2022. My research interests lie at the intersection of **Mobility & Travel Behavior**, **Emerging Mobility System**, **Sustainable Transportation**, and **Transportation Equity**. I will be pursuing a Ph.D. in Urban Studies and Planning at MIT, starting in Fall 2025, supervised by Prof. [Jinhua Zhao](https://dusp.mit.edu/people/jinhua-zhao).
+I am currently a Ph.D. student in Urban Studies and Planning at Massachusetts Institute of Technology (MIT), supervised by Prof. [Jinhua Zhao](https://dusp.mit.edu/people/jinhua-zhao). I obtained my Bachelor’s degree in Traffic Engineering from Tongji University in 2022 and my Master’s degree in Urban and Regional Planning from Peking University in 2025. My research interests lie at the intersection of **Mobility & Travel Behavior**, **Emerging Mobility Technologies**, **Sustainable Transportation**, and **Transportation Equity**.
 
 
 Education
@@ -21,7 +21,7 @@ Education
 Research Areas
 ------
 * **Urban Mobility and Travel Behavior**: Leveraging transit data to understand the mobility patterns and behavioural dynamics of people and goods; exploring incentive mechanisms and intervention measures to promote more sustainable mobility.
-* **Emerging Mobility Systems**: Assessing the environmental, economic, and social impacts of the application of CASE (Connected, Autonomous, Shared, Electric) technologies using causal inference and machine learning methods.
+* **Emerging Mobility Technologies**: Assessing the environmental, economic, and social impacts of the application of CASE (Connected, Autonomous, Shared, Electric) technologies using causal inference and machine learning methods.
 * **Green Transformations in Transportation**: Focused on technological innovation, governance, and strategic planning techniques to achieve green transformations in transportation systems.
 * **Social and Spatial Justice**: In relation to accessibility to essential services, transportation infrastructure, climate and environmental impacts of transportation systems among different communities and groups.
 
@@ -44,6 +44,7 @@ News
 
 Honors and Awards
 ------
+* 2025.09 MIT Presidential Fellowship
 * 2024.10 National Scholarship, Ministry of Education of China (1/51, Top 1% of all graduate students at PKU)
 * 2024.10 Merit Student Pacesetter Award, Peking University (1/51)
 * 2022.06 Outstanding Graduates from Shanghai, Top 0.2% of all undergraduate students at TJU
