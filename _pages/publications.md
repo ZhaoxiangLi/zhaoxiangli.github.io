@@ -33,5 +33,7 @@ Multi-class Mobility Dynamics Analysis
 
 * He, Z., Zhao, P.\*, Zhang, S., <u>Li, Z.</u>, Huang, G., Zhang, C., & Niu, Y. (2024). **Analyzing foreland dynamics in China's port clusters under global major events (2019–2022) by AIS trajectory data**. <i> Ocean & Coastal Management</i>, 255, 107269. <a href="https://doi.org/10.1016/j.ocecoaman.2024.107269"> [Paper]</a>
 
+* He, Z., Zhao, P.\*, Huang, G., <u>Li, Z.</u>, Huang, Z., Niu, Y., & Zhang, C. (2024). **Unrevealing the adaptivity of container shipping network during disruption events by AIS trajectory data**. <i> Ocean & Coastal Management</i>, 270, 107862. <a href="https://doi.org/10.1016/j.ocecoaman.2025.107862"> [Paper]</a>
+
 
 
