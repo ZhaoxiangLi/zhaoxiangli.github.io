@@ -14,7 +14,7 @@ I am currently a Ph.D. student in Urban Studies and Planning at Massachusetts In
 
 Education
 ------
-* **Ph.D.** in Urban Studies and Planning, MIT, present
+* **Ph.D.** in Urban Studies and Planning, MIT, 2025–present
 * **MSc** in Urban and Regional Planning, Peking University, 2025
 * **BEng** in Traffic Engineering, Tongji University, 2022
 
