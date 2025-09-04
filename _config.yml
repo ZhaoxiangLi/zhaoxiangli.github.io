@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Zhaoxiang Li"
 title_separator          : "-"
 name                     : &name "Zhaoxiang Li"
-description              : &description "MSc Student at PKU"
+description              : &description "Ph.D. Student at MIT"
 url                      : https://zhaoxiangli.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ZhaoxiangLi/zhaoxiangli.github.io"
@@ -25,10 +25,10 @@ author:
   name             : "Zhaoxiang Li"
   pronouns         : # example: "she/her"  
   bio              : "MSc Student at Peking University"
-  location         : "China"
+  location         : "United States"
   employer         : #
   uri              : # URL
-  email            : "zhaoxiangli@stu.pku.edu.cn"
+  email            : "zhaoxli@mit.edu"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
