@@ -28,6 +28,7 @@ Research Areas
 
 News
 ------
+* **[2025-07]** I received my Master’s degree from Peking University with the first overall ranking in my major (1/51), and was honored as both a Peking University Outstanding Graduate and a Beijing Outstanding Graduate (Top 1%)！
 * **[2025-03]** My co-corresponding authored [paper](https://doi.org/10.1038/s41467-025-57861-z) with Prof. [Pengjun Zhao](https://urban.pkusz.edu.cn/info/1013/3181.htm) “Reducing the road freight emissions through integrated strategy in the port cities”, has been accepted by Nature Communications!
 * **[2025-01]** My first-authored [paper](https://doi.org/10.1016/j.jtrangeo.2025.104125) “Explaining the spatial dynamics and identifying potential risks of hazardous materials truck movements”, has been accepted by Journal of Transport Geography!
 * **[2024-10]** I was awarded the National Scholarship by the Ministry of Education of China, with a ranking of first in my department (1/51)!
@@ -45,9 +46,11 @@ News
 Honors and Awards
 ------
 * 2025.09 MIT Presidential Fellowship
+* 2025.06 Outstanding Graduate of Beijing, Top 1% of all graduate students at PKU
+* 2025.06 Outstanding Graduate of Peking university, Top 10% of all graduate students at PKU
 * 2024.10 National Scholarship, Ministry of Education of China (1/51, Top 1% of all graduate students at PKU)
 * 2024.10 Merit Student Pacesetter Award, Peking University (1/51)
-* 2022.06 Outstanding Graduates from Shanghai, Top 0.2% of all undergraduate students at TJU
+* 2022.06 Outstanding Graduate of Shanghai, Top 0.2% of all undergraduate students at TJU
 * 2021.12 Xiangcheng High-Tech Talent Scholarship, Tongji University
 * 2021.07 First Prize of the 16th National Competition of Transport Science and Technology (1/1130)
 * 2021.03 5th in 2021 American Society Civil Engineering Mid-Pacific Student Conference Transportation Contest
