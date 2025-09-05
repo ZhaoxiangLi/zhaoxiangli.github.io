@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Ph.D. student in Urban Studies and Planning at Massachusetts Institute of Technology (MIT), supervised by Prof. [Jinhua Zhao](https://dusp.mit.edu/people/jinhua-zhao). I obtained my Bachelor’s degree in Traffic Engineering from Tongji University in 2022 and my Master’s degree in Urban and Regional Planning from Peking University in 2025. My research interests lie at the intersection of **Mobility & Travel Behavior**, **Emerging Mobility Technologies**, **Sustainable Transportation**, and **Transportation Equity**.
+I am currently a Ph.D. student in Urban Studies and Planning at Massachusetts Institute of Technology (MIT), supervised by Prof. [Jinhua Zhao](https://dusp.mit.edu/people/jinhua-zhao). I obtained my Master’s degree in Urban and Regional Planning from Peking University in 2025 and my Bachelor’s degree in Traffic Engineering from Tongji University in 2022. My research interests lie at the intersection of **Mobility & Travel Behavior**, **Emerging Mobility Technologies**, **Sustainable Transportation**, and **Transportation Equity**.
 
 
 Education
