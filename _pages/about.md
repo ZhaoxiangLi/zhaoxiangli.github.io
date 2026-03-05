@@ -16,7 +16,7 @@ Education
 ------
 * **PhD** in Urban Studies and Planning, MIT, 2025–present
 * **MSc** in Urban and Regional Planning, Peking University, 2025
-* **BEng** in Traffic Engineering, Tongji University, 2022
+* **BEng** in Transportation Engineering, Tongji University, 2022
 
 
 Research Areas
