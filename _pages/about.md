@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a PhD student in the Department of Urban Studies and Planning [(DUSP)](https://dusp.mit.edu/) at MIT and a member of the [Urban Mobility Lab (JTL)](https://mobility.mit.edu/), supervised by Prof. [Jinhua Zhao](https://dusp.mit.edu/people/jinhua-zhao). I obtained my Master’s degree in Urban and Regional Planning from Peking University in 2025 and my Bachelor’s degree in Traffic Engineering from Tongji University in 2022. My research interests lie at the intersection of **Mobility & Travel Behavior**, **Emerging Mobility Technologies**, **Sustainable Transportation**, and **Transportation Equity**.
+I am currently a PhD student in the Department of Urban Studies and Planning [(DUSP)](https://dusp.mit.edu/) at MIT and a member of the [Urban Mobility Lab (JTL)](https://mobility.mit.edu/), advised by Prof. [Jinhua Zhao](https://dusp.mit.edu/people/jinhua-zhao). I obtained my Master’s degree in Urban and Regional Planning from Peking University in 2025 and my Bachelor’s degree in Transportation Engineering from Tongji University in 2022. My research interests lie at the intersection of **Urban Mobility**, **Emerging Mobility Technologies**, **Sustainable Transportation**, and **Transportation Equity**.
 
 
 Education
@@ -29,6 +29,7 @@ Research Areas
 
 News
 ------
+* **[2025-12]** Our [paper](https://doi.org/10.1016/j.apenergy.2025.127169) “Adaptive energy scheduling strategy for port logistics systems: A dual-consolidation continual reinforcement learning approach”, has been accepted by Applied Energy!
 * **[2025-07]** I received my Master’s degree from Peking University with the first overall ranking in my major (1/51), and was honored as both a Peking University Outstanding Graduate and a Beijing Outstanding Graduate (Top 1%)！
 * **[2025-03]** My co-corresponding authored [paper](https://doi.org/10.1038/s41467-025-57861-z) with Prof. [Pengjun Zhao](https://urban.pkusz.edu.cn/info/1013/3181.htm) “Reducing the road freight emissions through integrated strategy in the port cities”, has been accepted by Nature Communications!
 * **[2025-01]** My first-authored [paper](https://doi.org/10.1016/j.jtrangeo.2025.104125) “Explaining the spatial dynamics and identifying potential risks of hazardous materials truck movements”, has been accepted by Journal of Transport Geography!
