@@ -29,7 +29,7 @@ Research Areas
 
 News
 ------
-* **[2025-12]** Our [paper](https://doi.org/10.1016/j.apenergy.2025.127169) “Adaptive energy scheduling strategy for port logistics systems: A dual-consolidation continual reinforcement learning approach”, has been accepted by <i> **Applied Energy**<i> !
+* **[2025-12]** Our [paper](https://doi.org/10.1016/j.apenergy.2025.127169) “Adaptive energy scheduling strategy for port logistics systems: A dual-consolidation continual reinforcement learning approach”, has been accepted by <i> **Applied Energy**!
 * **[2025-07]** I received my Master’s degree from Peking University with the first overall ranking in my major (1/51), and was honored as both a Peking University Outstanding Graduate and a Beijing Outstanding Graduate (Top 1%)！
 * **[2025-03]** My co-corresponding authored [paper](https://doi.org/10.1038/s41467-025-57861-z) with Prof. [Pengjun Zhao](https://urban.pkusz.edu.cn/info/1013/3181.htm) “Reducing the road freight emissions through integrated strategy in the port cities”, has been accepted by <i> **Nature Communications**<i> !
 * **[2025-01]** My first-authored [paper](https://doi.org/10.1016/j.jtrangeo.2025.104125) “Explaining the spatial dynamics and identifying potential risks of hazardous materials truck movements”, has been accepted by <i> **Journal of Transport Geography**<i> !
